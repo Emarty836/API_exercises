@@ -1,0 +1,17 @@
+#newName{
+    /* border:solid black 1px; */
+    margin:0;
+}
+
+.new{
+    background:rgb(235, 235, 235);
+    border:solid 1px black;
+    width:200px;
+    margin-left:30px;
+    padding:5px;
+}
+
+.email{
+    color:green;
+    
+}
