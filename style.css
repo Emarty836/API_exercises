@@ -13,5 +13,17 @@
 
 .email{
     color:green;
-    
 }
+
+.flex1{
+    background:green;
+    display:flex;
+}
+
+.flex1 > div{
+    border:solid 1px black;
+    min-width:350px;
+    width:50%;
+    padding:5px;
+}
+
